@@ -1,0 +1,21 @@
+body {
+    background-image: linear-gradient(to bottom, rgb(33, 189, 236), #f1f6fa);
+}
+
+table {
+    border-style: solid #000000;
+    background-color: #f1f6fa;
+}
+
+.card-group>a {
+    background-image: linear-gradient(to right, rgb(184, 70, 70), #8B0000);
+    width: 5%;
+    border-radius: 20px;
+    padding: 15px;
+    color: white;
+    border: 1px;
+    outline: 0px;
+    float: right;
+    text-align: center;
+    text-decoration: none;
+}
